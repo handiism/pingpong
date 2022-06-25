@@ -1,2 +1,2 @@
 # Ping Pong
-Understanding concurrency with simple ping pong games
+Understanding go concurrency with simple ping pong game

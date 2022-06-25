@@ -1,2 +1,2 @@
 # Ping Pong
-Contains all code from @imrenagi Go Konkurensi 101 series
+Understanding concurrency with simple ping pong games
